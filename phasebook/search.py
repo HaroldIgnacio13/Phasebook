@@ -66,5 +66,5 @@ def search_users(args):
             continue
         except:
             output = output
-
+    # return the outpu in the page
     return output

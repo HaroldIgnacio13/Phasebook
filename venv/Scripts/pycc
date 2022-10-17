@@ -1,0 +1,3 @@
+#!d:\github\phasebook\venv\scripts\python.exe
+from numba.pycc import main
+main()

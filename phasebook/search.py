@@ -66,5 +66,9 @@ def search_users(args):
             continue
         except:
             output = output
+<<<<<<< HEAD
     # return the outpu in the page
+=======
+
+>>>>>>> first commit
     return output
